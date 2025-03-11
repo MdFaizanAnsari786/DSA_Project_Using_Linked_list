@@ -1,0 +1,51 @@
+# 📌 Data Structures & Algorithms (DSA) Project - Linked List & Hash Table
+
+## 🏆 Project Overview
+This project implements **Linked List and Hash Table operations** in C, designed for **cricket data analysis**. It efficiently processes player statistics, filters key performance metrics, and showcases fundamental data structure techniques.
+
+## 📂 Project Structure
+- 📜 **Documentation**: Project report and details (`.pdf` files)
+- 📊 **Datasets**: Cricket-related data in `.xlsx`
+- 💻 **Source Code**: C programs implementing linked lists and hash tables
+- 🏏 **Cricket Operations**: Algorithms to analyze wickets, all-rounders, and player stats
+- 🔧 **Executable Files**: Precompiled `.exe` files for direct execution
+
+## ⚡ Features
+✅ **Linked List Implementation** - Dynamic memory management for cricket data
+✅ **Hash Table Integration** - Fast lookup and retrieval of player stats
+✅ **Cricket Data Processing** - Filters wickets, all-rounders, and key performance stats
+✅ **Optimized Algorithms** - Efficient searching, sorting, and retrieval
+✅ **User-Friendly Execution** - Compiled `.exe` files included
+
+## 🛠️ Installation & Usage
+### **1️⃣ Compile the C Code (If Needed)**
+Use GCC to compile the files:
+```sh
+gcc -o project main.c hash_table.c linked_list.c -Wall
+./project
+```
+
+### **2️⃣ Run the Executable (Windows Users)**
+Simply double-click the `.exe` file or run in the terminal:
+```sh
+./a.exe
+```
+
+## 📖 Documentation
+For detailed insights into the implementation and logic, refer to the **project report** (`DSA-Project1.pdf`).
+
+## 📌 Future Enhancements
+🔹 Improve memory optimization in linked list operations
+🔹 Implement AVL trees for balanced searching
+🔹 Extend dataset with real-time cricket statistics
+
+## 🤝 Contributors
+- **Your Name** (Project Lead)
+- **Team Member 1**
+- **Team Member 2**
+
+## 🏅 Acknowledgments
+Special thanks to our professors and mentors for guidance throughout this project!
+
+## 📜 License
+This project is open-source and free to use for educational purposes. 🚀
